@@ -1,6 +1,7 @@
 # radioOnLine
 
 Estaciones de radio a través de la terminal
+
 Requiere de la herramienta mpv, más info: https://mpv.io/installation/
 
 Las estaciones de radio las he creado en zenofm
