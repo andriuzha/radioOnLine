@@ -10,6 +10,7 @@ salir (){
 	  echo "killing $PID"
 	  kill -9 $PID
 	fi
+clear
 exit 0
 }
 
